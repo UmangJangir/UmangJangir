@@ -6,7 +6,7 @@
  
  ● Learning Python, NumPy, Pandas and Machine Learning
  
- ● Tools : Git, GitHub, VS Code
+ ● Tools : Git, GitHub, VS Code, Jupyter notebook
 
 
  LinkedIn: https://linkedin.com/in/umangjangir
