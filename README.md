@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I'm ## Umang Jangir
+ I'm **Umang Jangir**
  
  ● Aspiring AI/ML Engineer
  
